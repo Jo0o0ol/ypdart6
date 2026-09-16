@@ -1,0 +1,11 @@
+{
+  "name": "Система управления библиотекой — адаптивная версия",
+  "short_name": "Library API",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3F51B5",
+  "description": "Практическая работа №6: адаптивная вёрстка, сборка, публикация и тестирование",
+  "orientation": "any",
+  "prefer_related_applications": false
+}
